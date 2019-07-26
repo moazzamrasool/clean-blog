@@ -1,2 +1,2 @@
 # clean-blog
-Blog created by moazzamin fully PHP in OOPS 
+Blog created by moazzam in fully PHP in OOPS 
